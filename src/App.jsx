@@ -9,7 +9,7 @@ function App() {
 
     // --- PENTING: GANTI URL INI DENGAN URL PUBLIK REPLIT BACKEND ANDA ---
     // Contoh: 'https://0785ea93-097c-4ce7-ad22-2af87a13cb3a-00-37eqo39h5xa3.sisko.replit.dev'
-    const BACKEND_API_URL = 'GANTI_URL_REPLIT_BACKEND_ANDA_DI_SINI'; // PASTI GANTI INI!
+    const BACKEND_API_URL = 'https://57a2fdb8-af92-4263-9492-767c88e7587f-00-23x0107gbm7u1.pike.replit.dev/'; // PASTI GANTI INI!
 
     useEffect(() => {
         const fetchTemplates = async () => {
